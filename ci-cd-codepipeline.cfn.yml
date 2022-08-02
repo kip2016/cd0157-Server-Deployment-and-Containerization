@@ -40,7 +40,8 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: kip2016
+
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
